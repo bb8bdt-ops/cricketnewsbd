@@ -1,0 +1,10 @@
+title: CricketNewsBD
+description: Bangladesh and international cricket news, analysis and previews.
+baseurl: "/cricketnewsbd"
+url: "https://bb8bdt-ops.github.io"
+lang: bn
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
