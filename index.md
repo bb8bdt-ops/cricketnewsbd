@@ -11,6 +11,7 @@ Bangladesh and international cricket news, analysis and previews.
 
 ---
 
-## Latest Articles (1)
+## Latest Articles (2)
 
+- [বিপিএল ২০২৬: দল বিশ্লেষণ ও সম্ভাবনা](./বপএল-২০২৬-দল-বশলষণ-ও-সমভবন/)
 - [আইপিএল ২০২৬: সম্পূর্ণ প্রিভিউ ও সময়সূচী](./আইপএল-২০২৬-সমপরণ-পরভউ-ও-সমযসচ/)
